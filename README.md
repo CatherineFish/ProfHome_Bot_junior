@@ -23,9 +23,9 @@
 
 ```
 >>> from views_quest import *
- >>> create_tables()
+>>> create_tables()
  
- python3 utils_quest.py
+python3 utils_quest.py
 ```
 
 
