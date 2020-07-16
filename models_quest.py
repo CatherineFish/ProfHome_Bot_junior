@@ -1,5 +1,3 @@
-import datetime
-
 from peewee import *
 
 DATABASE = 'data.db'
@@ -20,4 +18,5 @@ class Point(BaseModel):
     question = TextField()
     wrong_answer = TextField()
     right_answer = TextField()
+
 

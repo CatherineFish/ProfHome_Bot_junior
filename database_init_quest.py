@@ -32,3 +32,4 @@ def init():
         right_answer='Папу Римского')
     point_4.save()
 
+
